@@ -1,0 +1,10 @@
+
+LINK TO FIREBASE FOR DOWNLOADING THE JSON FILE:
+
+https://console.firebase.google.com/u/0/project/fchat-master-ebf56/database/fchat-master-ebf56/data
+
+STEPS TO CREATE CSV:
+1. Export json from firebase.
+2. Paste the json in the 'input.json' of this project.
+3. Run the file 'jsontocsv.py'
+4. CSV file will be created and named as 'output.csv'

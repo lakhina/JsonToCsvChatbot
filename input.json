@@ -1,0 +1,146 @@
+{
+  "messages" : {
+    "111433108964661785456-101303631882520175868" : {
+      "-LTWGqStAJZljPg3-2oR" : {
+        "feedback_string" : "",
+        "isText" : "1",
+        "receiveremail" : "Sahaika",
+        "receiverid" : "101303631882520175868",
+        "receivername" : "Sahaika",
+        "receiverphoto" : "\"https://lh5.googleusercontent.com/-aB7ra_oRRdo/AAAAAAAAAAI/AAAAAAAAAT0/YV97n4P2WC8/s96-c/photo.jpg\"",
+        "senderemail" : "ruchika17051@iiitd.ac.in",
+        "senderid" : "111433108964661785456",
+        "sendername" : "Ruchika Lakhina",
+        "senderphoto" : "https://lh3.googleusercontent.com/-I-3s376sFUI/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jkatNvpE84Oi1zK7xQQ8XUUI_0Uw/s96-c/photo.jpg",
+        "text" : "hi",
+        "timestamp" : "1544599070408"
+      },
+      "-LTWGsVCjnGJlGPRlWLL" : {
+        "feedback_string" : "",
+        "isText" : "2",
+        "photoPath" : "/111433108964661785456/image_1544599078660",
+        "receiveremail" : "Sahaika",
+        "receiverid" : "101303631882520175868",
+        "receivername" : "Sahaika",
+        "receiverphoto" : "\"https://lh5.googleusercontent.com/-aB7ra_oRRdo/AAAAAAAAAAI/AAAAAAAAAT0/YV97n4P2WC8/s96-c/photo.jpg\"",
+        "senderemail" : "ruchika17051@iiitd.ac.in",
+        "senderid" : "111433108964661785456",
+        "sendername" : "Ruchika Lakhina",
+        "senderphoto" : "https://lh3.googleusercontent.com/-I-3s376sFUI/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jkatNvpE84Oi1zK7xQQ8XUUI_0Uw/s96-c/photo.jpg",
+        "timestamp" : "1544599078748"
+      },
+      "-LTWH-tTy6KDkCetjCKk" : {
+        "feedback_string" : "",
+        "isText" : "3",
+        "receiveremail" : "Sahaika",
+        "receiverid" : "101303631882520175868",
+        "receivername" : "Sahaika",
+        "receiverphoto" : "\"https://lh5.googleusercontent.com/-aB7ra_oRRdo/AAAAAAAAAAI/AAAAAAAAAT0/YV97n4P2WC8/s96-c/photo.jpg\"",
+        "senderemail" : "ruchika17051@iiitd.ac.in",
+        "senderid" : "111433108964661785456",
+        "sendername" : "Ruchika Lakhina",
+        "senderphoto" : "https://lh3.googleusercontent.com/-I-3s376sFUI/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jkatNvpE84Oi1zK7xQQ8XUUI_0Uw/s96-c/photo.jpg",
+        "timestamp" : "1544599113134",
+        "videoPath" : "/111433108964661785456/video_1544599113060.mp4"
+      },
+      "-LTWJ9UsWdwJLvyFr81G" : {
+        "audio_name" : "/111433108964661785456/recording_1544599674160.mp3",
+        "feedback_string" : "अनुपयोगी",
+        "isText" : "0",
+        "receiveremail" : "Sahaika",
+        "receiverid" : "101303631882520175868",
+        "receivername" : "Sahaika",
+        "receiverphoto" : "\"https://lh5.googleusercontent.com/-aB7ra_oRRdo/AAAAAAAAAAI/AAAAAAAAAT0/YV97n4P2WC8/s96-c/photo.jpg\"",
+        "senderemail" : "ruchika17051@iiitd.ac.in",
+        "senderid" : "111433108964661785456",
+        "sendername" : "Ruchika Lakhina",
+        "senderphoto" : "https://lh3.googleusercontent.com/-I-3s376sFUI/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jkatNvpE84Oi1zK7xQQ8XUUI_0Uw/s96-c/photo.jpg",
+        "timestamp" : "1544599676744"
+      }
+    }
+  },
+  "users" : {
+    "101303631882520175868" : {
+      "id" : "101303631882520175868",
+      "name" : "Deepika Yadav",
+      "photo" : "https://lh5.googleusercontent.com/-aB7ra_oRRdo/AAAAAAAAAAI/AAAAAAAAAT0/YV97n4P2WC8/s96-c/photo.jpg"
+    },
+    "102087698248881821642" : {
+      "id" : "102087698248881821642",
+      "name" : "Sangoshthi IIITD",
+      "photo" : "https://lh5.googleusercontent.com/-9vZRF9ZoO8A/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaO111JDYHVka1gtACrtd-jt9xZYwA/s96-c/photo.jpg"
+    },
+    "104083736094717866909" : {
+      "id" : "104083736094717866909",
+      "name" : "Deepika Yadav",
+      "photo" : "https://lh4.googleusercontent.com/-itoaMG6Dn30/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbCWZxpzpGsvTUYQV8pVtmfBZgD3hA/s96-c/photo.jpg"
+    },
+    "104438938056703894690" : {
+      "id" : "104438938056703894690",
+      "name" : "Jasmeet Kaur",
+      "photo" : "https://lh6.googleusercontent.com/-IYVMZlk81ow/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7rONurrST6OeTIzUe-0YTOHHhp_Qw/s96-c/photo.jpg"
+    },
+    "104649951504974132534" : {
+      "id" : "104649951504974132534",
+      "name" : "Ruchika Lakhina",
+      "photo" : "https://lh5.googleusercontent.com/-7N7TUyRayVI/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPBVbuVp_hzktGF3cfEs69I-hLexg/s96-c/photo.jpg"
+    },
+    "105668197938670051769" : {
+      "id" : "105668197938670051769",
+      "name" : "Himani Sharma",
+      "photo" : "https://lh3.googleusercontent.com/-nF_X71hHfD4/AAAAAAAAAAI/AAAAAAAAABM/EDaZcxnBVwI/s96-c/photo.jpg"
+    },
+    "108717751764784699593" : {
+      "id" : "108717751764784699593",
+      "name" : "Jasmeet Kaur",
+      "photo" : "https://lh6.googleusercontent.com/-WnGq17Tdels/AAAAAAAAAAI/AAAAAAAAAFE/6_Yz5Qy6FuE/s96-c/photo.jpg"
+    },
+    "109710581880275733384" : {
+      "id" : "109710581880275733384",
+      "name" : "Ruchika Lakhina",
+      "photo" : "https://lh6.googleusercontent.com/-4q-u70pcN_E/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPMWbfrzXjjain-p65-byrJVzhg2A/s96-c/photo.jpg"
+    },
+    "110089451652719378396" : {
+      "id" : "110089451652719378396",
+      "name" : "Himani Sharma",
+      "photo" : "https://lh6.googleusercontent.com/-dTln7I4eh7Y/AAAAAAAAAAI/AAAAAAAAAO4/h1gKlOz0L5w/s96-c/photo.jpg"
+    },
+    "111433108964661785456" : {
+      "id" : "111433108964661785456",
+      "name" : "Ruchika Lakhina",
+      "photo" : "https://lh3.googleusercontent.com/-I-3s376sFUI/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMPr8pl5tWJ3SbiDKS0v8E3qYly-Q/s96-c/photo.jpg"
+    },
+    "112696626638781036993" : {
+      "email" : "rupal15081@iiitd.ac.in",
+      "id" : "112696626638781036993",
+      "name" : "Rupal Jain",
+      "photo" : "https://lh3.googleusercontent.com/-tSLchwl_p88/AAAAAAAAAAI/AAAAAAAAAVk/UVyQFGMoORg/s96-c/photo.jpg"
+    },
+    "114998803948438879129" : {
+      "email" : "e175pravesh@gmail.com",
+      "id" : "114998803948438879129",
+      "name" : "pravesh kumari",
+      "photo" : "https://lh6.googleusercontent.com/-Hww9U8F7Atg/AAAAAAAAAAI/AAAAAAAAAAc/aiUf9jYrpmE/s96-c/photo.jpg"
+    },
+    "115898725842094466539" : {
+      "id" : "115898725842094466539",
+      "name" : "Jasmeet Kaur",
+      "photo" : "https://lh4.googleusercontent.com/-0SZTRPDSXAI/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaN9RdDikeuyNVf7Un3jdvpUvh7j4g/s96-c/photo.jpg"
+    },
+    "116872602182610045713" : {
+      "id" : "116872602182610045713",
+      "name" : "sunil yadav",
+      "photo" : "https://lh4.googleusercontent.com/-NWemj3bp5Ng/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbD1SZWFao9amUwbDTc1sVSY5W70_g/s96-c/photo.jpg"
+    },
+    "118140707596855627644" : {
+      "id" : "118140707596855627644",
+      "name" : "Obsessive Travelz",
+      "photo" : "https://lh4.googleusercontent.com/-fAVpI6rTMlA/AAAAAAAAAAI/AAAAAAAAACg/VLZu4bwiImo/s96-c/photo.jpg"
+    },
+    "118310188232036233714" : {
+      "id" : "118310188232036233714",
+      "name" : "Himani Sharma",
+      "photo" : "https://lh6.googleusercontent.com/-J942yu9z5pU/AAAAAAAAAAI/AAAAAAAAABE/PzOcWx2OeBo/s96-c/photo.jpg"
+    }
+  }
+}
